@@ -21,10 +21,10 @@ We have extract the data from various types of data sources like Json ,RDBMS,Exc
                     ├── Age_Scatter_Cart
                     ├── Business_Unit_Bar_Chart
                     ├── Business_Unit_HeatMap
-                      ├── Department_Bar_Chart
-                      ├── Ethinicity_Chart
-                      ├── Gender_Chart
-                      ├──  Gender_HeatMap
+                    ├── Department_Bar_Chart
+                    ├── Ethinicity_Chart
+                    ├── Gender_Chart
+                    ├──  Gender_HeatMap
 
 
 ## Installation
