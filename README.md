@@ -9,21 +9,21 @@ We have extract the data from various types of data sources like Json ,RDBMS,Exc
 
 ## File Structure
 Hackathon_Data_Pipeline
-├── duplicateValueCheck.py
-├── file_count.py
-├── missing_records.py
-├── null_fields_check.py
-├── validation_data_type.py
-├── DataVisualization
-          ├── Age_Bar_Chart
-          ├── Age_Filtering
-          ├── Age_Scatter_Cart
-            ├── Business_Unit_Bar_Chart
-          ├── Business_Unit_HeatMap
-            ├── Department_Bar_Chart
-            ├── Ethinicity_Chart
-            ├── Gender_Chart
-            ├──  Gender_HeatMap
+          ├── duplicateValueCheck.py
+          ├── file_count.py
+          ├── missing_column.py
+          ├── null_fields_check.py
+          ├── validation_data_type.py
+          ├── DataVisualization
+                    ├── Age_Bar_Chart
+                    ├── Age_Filtering
+                    ├── Age_Scatter_Cart
+                      ├── Business_Unit_Bar_Chart
+                    ├── Business_Unit_HeatMap
+                      ├── Department_Bar_Chart
+                      ├── Ethinicity_Chart
+                      ├── Gender_Chart
+                      ├──  Gender_HeatMap
 
 
 ## Installation
